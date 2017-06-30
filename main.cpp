@@ -1,3 +1,5 @@
+// DCMTK 3.6.0
+
 #include "mainwindow.h"
 #include <QApplication>
 
